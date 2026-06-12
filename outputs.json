@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "key": "Report Overview",
+      "value": 1
+    },
+    {
+      "key": "Economic Performance",
+      "value": 16
+    },
+    {
+      "key": "GRI Environmental Management",
+      "value": 223
+    },
+    {
+      "key": "General Reporting & Materiality",
+      "value": 1045
+    },
+    {
+      "key": "GRI Corporate Governance",
+      "value": 1137
+    },
+    {
+      "key": "TNFD Environmental Disclosures",
+      "value": 1319
+    },
+    {
+      "key": "GRI Social & Labor Practices",
+      "value": 1500
+    },
+    {
+      "key": "TNFD Governance, Strategy & Risk",
+      "value": 1735
+    },
+    {
+      "key": "IFC Social Performance Standards",
+      "value": 2758
+    }
+  ]
+}
